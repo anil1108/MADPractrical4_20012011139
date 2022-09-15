@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/COLLEGE/SEM-5/MobileApplicationDevelopment/MADPractical4_20012011139/app/src/main/res/drawable-v24/ic_baseline_alarm_24.xml" value="0.194" />
+        <entry key="..\:/COLLEGE/SEM-5/MobileApplicationDevelopment/MADPractical4_20012011139/app/src/main/res/drawable-v24/ic_baseline_call_24.xml" value="0.194" />
+        <entry key="..\:/COLLEGE/SEM-5/MobileApplicationDevelopment/MADPractical4_20012011139/app/src/main/res/drawable-v24/ic_baseline_camera_alt_24.xml" value="0.194" />
+        <entry key="..\:/COLLEGE/SEM-5/MobileApplicationDevelopment/MADPractical4_20012011139/app/src/main/res/drawable-v24/ic_baseline_contact_phone_24.xml" value="0.194" />
+        <entry key="..\:/COLLEGE/SEM-5/MobileApplicationDevelopment/MADPractical4_20012011139/app/src/main/res/drawable-v24/ic_baseline_image_24.xml" value="0.194" />
+        <entry key="..\:/COLLEGE/SEM-5/MobileApplicationDevelopment/MADPractical4_20012011139/app/src/main/res/drawable-v24/ic_baseline_web_24.xml" value="0.194" />
+        <entry key="..\:/COLLEGE/SEM-5/MobileApplicationDevelopment/MADPractical4_20012011139/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
